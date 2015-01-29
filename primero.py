@@ -1,5 +1,5 @@
 import random
-
+# cambio numero 2 
 x=random.randint(1,20)
 y=random.randint(1,20)
 z=random.randint(1,20)
