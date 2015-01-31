@@ -1,8 +1,8 @@
 import random
 # cambio numero 2 
-x=random.randint(1,20)
-y=random.randint(1,20)
-z=random.randint(1,20)
+x=random.randint(1,100)
+y=random.randint(1,100)
+z=random.randint(1,100)
 print '1r valor: ',x 
 
 print '2o valor: ',y 
