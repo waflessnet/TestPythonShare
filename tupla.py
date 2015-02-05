@@ -11,6 +11,7 @@ numeros=(1,2,3,4,5)
 suma=0
 indice=0
 while indice<len(numeros):
+	print 'la suma de',suma,' + ',numeros[indice],'es:'
 	suma=suma+numeros[indice]
 	print suma,'\n'
 	indice=indice+1
