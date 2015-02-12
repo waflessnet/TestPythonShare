@@ -28,7 +28,7 @@ print 'De: '+cad1+' y '+cad2+' tiene menos caracteres '+menor(cad1,cad2)
 
  #ejercicio string lista
 
- nombres=['ariel','marcos','ana','luis','pedro','andres']
+nombres=['ariel','marcos','ana','luis','pedro','andres']
 cant=0
 for nom in nombres:
     if nom[0]=='a':
